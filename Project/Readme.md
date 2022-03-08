@@ -19,3 +19,6 @@ It is capable to determining wheather person is sitting or not by using sensors 
 * The digitized temperature input is visualized using Pulse Width Modulation.
 * The corresponding temperature values based on the digitized temperature input is transmitted by the UART protocol. Here the data is displayed on the serial monitor.
 
+### CI and Code Quality
+![code_quality_score](https://api.codiga.io/project/31666/score/svg)
+![code_quality_status](https://api.codiga.io/project/31666/status/svg)
